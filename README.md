@@ -1,6 +1,6 @@
 # umbraco
 
-My [Umbraco](https://umbraco.com) local installation to demo [TinyMCE](https://www.tiny.cloud) with the official plugin or just to do some Umbraco tests and development.
+My [Umbraco](https://umbraco.com) local installation to demo [TinyMCE](https://www.tiny.cloud) with the [official plugin](https://marketplace.umbraco.com/package/tinymce.umbraco) or just to do some Umbraco tests and development.
 
 Use at your own risks.
 
