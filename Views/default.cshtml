@@ -1,0 +1,9 @@
+﻿@using Umbraco.Cms.Web.Common.PublishedModels;
+@inherits Umbraco.Cms.Web.Common.Views.UmbracoViewPage
+
+<div class="page-content">
+	<h1>@Model.Value("Title")</h1>
+	<div>
+		@Html.Raw(Model.Value("Content"))
+	</div>
+</div>
