@@ -3,3 +3,7 @@ node_modules/
 
 # macOS
 .DS_Store
+
+#.Net
+bin/
+obj/
