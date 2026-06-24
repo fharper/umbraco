@@ -8,9 +8,9 @@
 
   <ItemGroup>
     <PackageReference Include="TinyMCE.Umbraco" Version="17.2.0" />
-    <PackageReference Include="Umbraco.Cms" Version="17.2.2" />
+    <PackageReference Include="Umbraco.Cms" Version="17.4.2" />
     <PackageReference Include="Umbraco.Cms.DevelopmentMode.Backoffice" Version="17.2.2" />
-    <PackageReference Include="MimeKit" Version="4.15.1" />
+    <PackageReference Include="MimeKit" Version="4.16.0" />
   </ItemGroup>
 
   <ItemGroup>
